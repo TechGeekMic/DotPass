@@ -1,5 +1,7 @@
 # Security Policies
 
+## Passwords (or if you want to use them as PINs) are regenerated each time and we can guarantee that you will **NOT** got the same password/PIN as someone else.
+
 Remember, some (not many) batch files can be harmful to your PC that you download off the Internet. Only trust sources from websites that you trust, like GitHub!
 When you use DotPass, all of the passwords that get's randomly generated aren't sent to us directly, or the cloud. It isn't even stored on your local hard disk! That's why you should write it down somewhere private in case you forget it. In technical terms, the passwords are only available to the RAM, which stores the Console Window Host/Command Prompt program in it temporarily while DotPass is open. If lots of people use your (or another person's) computer, we highly recommend that you close DotPass once your done using it.
 
