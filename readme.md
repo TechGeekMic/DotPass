@@ -15,7 +15,7 @@ Remember, some (not many) batch files can be harmful to your PC that you downloa
 
 Passwords (or if you want to use them as PINs) are regenerated each time and we can guarantee that you will **NOT** got the same password/PIN as someone else.
 
-When you use DotPass, all of the passwords that get's randomly generated aren't sent to us directly, or the cloud. It isn't even stored on your local hard disk! That's why you should write it down somewhere private in case you forget it. You can view more about the security policy document here:
+When you use DotPass, all of the passwords that get randomly generated aren't sent to us directly, or the cloud. It isn't even stored on your local hard disk! That's why you should write it down somewhere private in case you forget it. You can view more about the security policy document here:
 https://github.com/TechGeekMic/DotPass/blob/main/security_policies.md.
 
 # Copyright
