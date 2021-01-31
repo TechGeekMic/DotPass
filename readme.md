@@ -9,7 +9,7 @@ We try our hardest to include your suggestions in every version, while taking ca
 # Security
 Remember, some (not many) batch files can be harmful to your PC that you download off the Internet. Only trust sources from websites that **you** trust, like GitHub!
 
-When you use DotPass, all of the passwords that get's randomly generated aren't sent to us directly, or the cloud. It isn't even stored on your local hard disk! That's why you should write it down somewhere private in case you forget it. You can view more oon the security policy document here:
+When you use DotPass, all of the passwords that get's randomly generated aren't sent to us directly, or the cloud. It isn't even stored on your local hard disk! That's why you should write it down somewhere private in case you forget it. You can view more about the security policy document here:
 https://github.com/TheTechGeekMicx/DotPass/blob/main/security_policies.md.
 
 # Copyright
