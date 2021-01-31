@@ -2,11 +2,11 @@
 
 ## Thank you for using DotPass
 
-# NOTE: Passwords (or if you want to use them as PINs) are regenerated each time and we can guarantee that you will **NOT** got the same password/PIN as someone else.
-
 Please go to our website for more details: https://techgeekmic.github.io/DotPass/
 
 Please read this carfully, as this documentation is basically a manual.
+
+# NOTE: Passwords (or if you want to use them as PINs) are regenerated each time and we can guarantee that you will **NOT** got the same password/PIN as someone else.
 
 We try our hardest to include your suggestions in every version, while taking care to fix a load of bugs. If you want your features included, email us at mhartmix@gmail.com. We are very sorry if your feature isn't included or get's deleted in any version, it's either because we are squashing some bad bugs, patching security vulnerabilities, or we just couldn't include it because there are too many feature requests.
 
