@@ -13,7 +13,7 @@ When you use DotPass, all of the passwords that get's randomly generated aren't 
 https://github.com/TheTechGeekMicx/DotPass/blob/main/security_policies.md.
 
 # Copyright
-This program is partially open-source. You are allowed to make features and request them, although you are jot allowed to publish them until we verify the changes made. Please do not copy the source code and create your own program or GitHub repository using it.
+This program is partially open-source. Read more here: https://github.com/TheTechGeekMicx/DotPass/blob/main/licensing_and_copyright. You are allowed to make features and request them, although you are jot allowed to publish them until we verify the changes made. Please do not copy the source code and create your own program or GitHub repository using it.
 
 # How to use DotPass
 Once you download the batch file located here: https://github.com/TheTechGeekMicx/DotPass/releases, we recommend that you create a shortcut on the desktop. That way, when you need a password for creating a new account, you'll have access quickly and efficiently! We also recommend that you maximise the program window, so that you can see all of the text properly and clearly too.
