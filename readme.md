@@ -4,7 +4,7 @@
 
 Please go to our website for more details: https://techgeekmic.github.io/DotPass/
 
-Please read this carfully, as this documentation is basically a manual.
+Please read this carefully, as this documentation is basically a manual.
 
 # NOTE: Passwords and PINS generated are always local and we can guarantee that you will **NOT** got the same password or PIN as someone else.
 
