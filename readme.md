@@ -19,7 +19,7 @@ When you use DotPass, all of the passwords that get randomly generated aren't se
 https://github.com/TechGeekMic/DotPass/blob/main/security_policies.md.
 
 # Copyright
-This program is not open-source. Read more here: https://github.com/TechGeekMic/DotPass/blob/main/licensing_and_copyright. You are allowed to make features and request them, although you are jot allowed to publish them until we verify the changes made. Please do not copy the source code and create your own program or GitHub repository using it.
+This program is not open-source. Read more here: https://github.com/TechGeekMic/DotPass/blob/main/licensing_and_copyright. You are allowed to make features and request them, although you are not allowed to publish them until we verify the changes made. Please do not copy the source code and create your own program or GitHub repository using it.
 
 # How to use DotPass
 Once you download the executible located here: https://github.com/TechGeekMic/DotPass/releases, We recommend that you maximise the program window, so that you can see all of the text properly and clearly too.
