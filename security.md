@@ -13,7 +13,7 @@ All versions below 3.0.x are unsupported, so we will not be providing security p
 | ------- | ------------------ |
 | 2.x     | :x:                |
 | 3.0.x   | :x:                |
-| 3.1.x   | :white_check_mark: |
+| 3.1.x   | :x: |
 | 3.2.x   | :white_check_mark: |
 
 ## Reporting a Vulnerability
